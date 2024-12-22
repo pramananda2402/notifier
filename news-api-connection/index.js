@@ -16,7 +16,7 @@ app.use(express.json());
 app.get("/",  (req, res) => {
     
     res.send({
-        message: "Hello World!"
+        message: "news api in console"
     })
 });
 
