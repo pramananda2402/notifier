@@ -1,0 +1,1 @@
+1. telegram offcial doc : https://core.telegram.org/tdlib/docs/index.html
